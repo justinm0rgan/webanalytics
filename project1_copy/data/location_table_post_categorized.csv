@@ -1,0 +1,46 @@
+location,location_grouped
+Unknown,unknown
+"Boulder, Colorado, United States",us_west
+"Gloucester, Massachusetts, United States",us_east
+New York City Metropolitan Area,us_east
+"Tel Aviv-Yafo, Tel Aviv, Israel",MENA
+Los Angeles Metropolitan Area,us_west
+Greater Brisbane Area,APAC
+"Philadelphia, Pennsylvania, United States",us_east
+"San Francisco, California, United States",us_west
+"Oakland, California, United States",us_west
+"San Diego County, California, United States",us_west
+"Menlo Park, California, United States",us_west
+Hungary,europe
+"Atlanta, Georgia, United States",us_east
+"Westlake Village, California, United States",us_west
+"Mercer Island, Washington, United States",us_west
+British Virgin Islands,uk
+"Cambridge, England, United Kingdom",uk
+"Milton Keynes, England, United Kingdom",uk
+"New York, New York, United States",us_east
+"Oakville, Ontario, Canada",canada
+"Charlotte, North Carolina, United States",us_east
+Greater Philadelphia,us_east
+San Francisco Bay Area,us_west
+"Taipei City, Taipei City, Taiwan",APAC
+"Park Ridge, Illinois, United States",us_midwest
+"Miami, Florida, United States",us_east
+Greater Boston,us_east
+"London, England, United Kingdom",uk
+Greater Chicago Area,us_midwest
+"Solihull, England, United Kingdom",uk
+Washington DC-Baltimore Area,us_east
+Luxembourg,europe
+"Mumbai, Maharashtra, India",APAC
+"Boston, Massachusetts, United States",us_east
+"Prospect Heights, Illinois, United States",us_midwest
+"Mumbai Suburban district, Maharashtra, India",APAC
+"Wilmslow, England, United Kingdom",uk
+"City of Johannesburg, Gauteng, South Africa",africa
+"Albuquerque, New Mexico, United States",us_west
+Singapore,APAC
+"Madison, Wisconsin, United States",us_midwest
+Greater Melbourne Area,APAC
+"Milwaukee, Wisconsin, United States",us_midwest
+Salt Lake City Metropolitan Area,us_west
